@@ -19,7 +19,6 @@ book:
         - tasks/representation.qmd
         - tasks/validation.qmd
         - tasks/transformation.qmd
-        - tasks/provisioning.qmd
     - part: storage/storage.qmd
       chapters:
         - storage/formats.qmd
@@ -36,11 +35,6 @@ book:
         - transformation/EDA.qmd
         - transformation/feature-engineering.qmd
         - transformation/feature-selection.qmd
-    - part: provisioning/provisioning.qmd
-      chapters:
-        - provisioning/data-stores.qmd
-        - provisioning/APIs.qmd
-        - provisioning/data-spaces.qmd
     - summary.qmd
     - references.qmd
   appendices:
