@@ -1,0 +1,7 @@
+# Prefacio {.unnumbered}
+
+Este es un curso de iniciación a la preparación de datos, diseñado como complemento formativo para los/as estudiantes del
+Grado en Ciencia e Ingeniería de Datos, que coordinan conjuntamente la EIF y la ETSII en la Univesidad Rey Juan Carlos (URJC).
+
+El contenido se ha desarrollado usando la herramienta de documentación científica Quarto.
+Para aprender maś sobre Quarto visita <https://quarto.org/docs/books>.
